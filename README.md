@@ -43,7 +43,7 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AshikKirmani&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AshhhhX&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
