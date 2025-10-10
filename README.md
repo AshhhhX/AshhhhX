@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashik Kirmani
 
-<!--
-**AshhhhX/AshhhhX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm restarting my journey as a **B.Tech CSE student**, learning **Java and DSA from the basics**.  
+💻 My goal: to become a confident **ML + IoT Engineer** and build projects that solve real problems.  
+🚀 This time, I’m focusing on understanding — not perfection.  
 
-Here are some ideas to get you started:
+### 🔥 What I’m Doing Now
+- Learning Java from scratch (1 hour daily)
+- Practicing DSA step by step
+- Building my coding consistency
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Interests
+- Machine Learning & IoT  
+- Software Development  
+- Problem Solving  
+
+📫 Let’s connect: [LinkedIn](#)  
